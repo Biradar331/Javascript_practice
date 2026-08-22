@@ -1,5 +1,4 @@
-// NOT AT ALL IMPORTANT TO REMEMBER ANY OF THIS CODE!
-
+// older version to fetch APIs
 const req = new XMLHttpRequest();
 
 req.onload = function () {
